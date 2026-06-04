@@ -39,7 +39,7 @@ Recommendations — marketing strategies for each segment
 
 🔧 Tools Used
 
-Python — Pandas, NumPy, Matplotlib, Seaborn
-Power BI
-PowerPoint
-MS Excel 
+- Python — Pandas, NumPy, Matplotlib, Seaborn
+- Power BI
+- PowerPoint
+- MS Excel 
