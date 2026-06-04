@@ -11,10 +11,10 @@ A data analysis project that segments e-commerce customers using the RFM (Recenc
 
 📊 Dataset
 
-Source: Kaggle – E-Commerce Data
-Size: 541,909 rows × 8 columns
-Period: December 2010 – December 2011
-Dataset Link : https://www.kaggle.com/datasets/carrie1/ecommerce-data
+- Source: Kaggle – E-Commerce Data
+- Size: 541,909 rows × 8 columns
+- Period: December 2010 – December 2011
+- Dataset Link : https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 🚀 What I Did : 
 
