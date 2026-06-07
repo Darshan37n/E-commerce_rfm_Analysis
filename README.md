@@ -16,6 +16,9 @@ A data analysis project that segments e-commerce customers using the RFM (Recenc
 - Period: December 2010 – December 2011
 - Dataset Link : https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
+## 📊 Presentation
+[View Presentation on Google Slides]([your-link-here](https://docs.google.com/presentation/d/1UlRdS0CIHicRQiwO__9v-lb5gagqhzWFA5TynrCHKQA/edit?usp=sharing))
+
 🚀 What I Did : 
 
 Cleaned the data — removed missing values, duplicates, and cancelled orders
